@@ -25,3 +25,6 @@
 ### Simple UI
 <img src='https://github.com/Arunsingh739/Automatic-attendance-management-system-with-face-recognition/blob/main/s01.png'>
 
+### register student
+<img src='https://github.com/Arunsingh739/Automatic-attendance-management-system-with-face-recognition/blob/main/s02.png'>
+
