@@ -4,6 +4,7 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) 
 
 ### What steps you have to follow??
+- Create data_img : where your image is saved for training.
 - Download or clone my Repository to your device
 - type `pip install -r important.txt` in command prompt(this will install required package for project)
 - Create a `data_img` folder in a project folder.
